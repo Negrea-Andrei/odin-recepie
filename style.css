@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(81, 152, 233);
+}
+
+h1 {
+    font-size: 50px;
+}
+
+ol {
+    text-align: center;
+    background-color: rgb(179, 245, 73);
+}
+
+h2 {
+    color: brown;
+    font-size: 34px;
+    
+}
+
+li {
+    font-size: 24px;
+}
+
